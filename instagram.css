@@ -1,0 +1,27 @@
+   
+   header{ 
+      display:flex;
+      flex-direction:row;
+      justify-content:space-between;
+      position:fixed;
+      top:0;
+      left:0;
+      right:0;
+      z-index:100;
+   }
+  
+   
+   .instagram-logo {
+         font-style: italic;
+         padding-bottom:23px;
+         padding-left:13px;
+         padding-top:13px;
+         height:85px;
+   }
+
+   .main-post{
+      display:flex;
+      align-items:center;
+      margin-top:1rem;
+      justify-content:center;
+   }
